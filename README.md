@@ -10,6 +10,10 @@
 - 📊 **文本信息日志** - 显示车辆状态信息
 - 🧊 **目标聚类** - 显示聚类目标
 
+## 效果展示
+
+- [Dora×Rerun：自动驾驶可视化](https://www.bilibili.com/video/BV1pEyFBjEx1/)
+
 ## 安装依赖
 
 ### Rerun C++ SDK
@@ -88,10 +92,6 @@ rec.log(
         .with_fill_mode(rerun::FillMode::MajorWireframe) // 显示模式：主要线框
 );
 ```
-
-## 效果展示
-
-- [Dora×Rerun：自动驾驶可视化](https://www.bilibili.com/video/BV1pEyFBjEx1/)
 
 ## 详细教程
 
