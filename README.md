@@ -91,7 +91,7 @@ rec.log(
 
 ## 效果展示
 
-[Dora×Rerun：自动驾驶可视化](https://www.bilibili.com/video/BV1pEyFBjEx1/)
+- [Dora×Rerun：自动驾驶可视化](https://www.bilibili.com/video/BV1pEyFBjEx1/)
 
 ## 详细教程
 
